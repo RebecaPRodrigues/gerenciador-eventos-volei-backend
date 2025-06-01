@@ -118,4 +118,6 @@ Você pode usar o Postman ou acessar o Swagger:
 
 ## 👩‍💻 Autor
 
+@lessa-portfolio
 @RebecaPRodrigues
+
